@@ -9,6 +9,7 @@ public class BankAccountTest {
     @org.junit.Test
     public void deposit() throws Exception {
         fail("This test has yet to be implemented");
+        System.out.println("");
     }
 
     @org.junit.Test
